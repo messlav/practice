@@ -1,1 +1,1 @@
-# practice
+Летняя практика Пирогова Вячеслава по теме Machine Learning
