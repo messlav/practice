@@ -9,4 +9,4 @@ Generated
 
 
 Dataset
-![alt text]https://github.com/messlav/practice/blob/main/MNIST%20GAN/dataset_pictures.png
+![alt text](https://github.com/messlav/practice/blob/main/MNIST%20GAN/dataset_pictures.png)
