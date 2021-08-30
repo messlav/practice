@@ -9,3 +9,6 @@ Generated
 
 Dataset
 ![alt text](https://github.com/messlav/practice/blob/main/GAN%20CELEBA/celeba_images.png)
+
+Losses
+![alt text](https://github.com/messlav/practice/blob/main/GAN%20CELEBA/Losses.png)
